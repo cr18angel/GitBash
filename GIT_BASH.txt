@@ -1,0 +1,24 @@
+git init
+
+1.git status   (puede ser git status -s )
+2.git add [nombre]
+3.git commit -m "especifica lo que quieres ingresar"
+4.git push -u origin [rama]/main
+
+--ver los cambios 
+git log --oneline
+
+//////////////ramas/////
+--ver la rama en la que estoy 
+git branch
+
+
+
+-- crear nueva rama 
+git checkout -b [nombre rama nueva]
+
+--cambiar la rama
+git chakout [nombre de la rama]
+
+-- insertar rama (debe estar en la principal)
+git merge [rama a incluir]
