@@ -18,8 +18,8 @@ prueba
 -- crear nueva rama 
 git checkout -b [nombre rama nueva]
 
---cambiar la rama
-git chakout [nombre de la rama]
+##cambiar la rama
+git checkout [nombre de la rama]
 
 -- insertar rama (debe estar en la principal)
 git merge [rama a incluir]
