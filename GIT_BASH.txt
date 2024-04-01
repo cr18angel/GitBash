@@ -1,4 +1,5 @@
 git init
+Pruebas
 
 1.git status   (puede ser git status -s )
 2.git add [nombre]
